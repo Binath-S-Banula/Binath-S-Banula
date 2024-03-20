@@ -1,4 +1,4 @@
-<p>&nbsp;<img align="center" src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg" alt="Cover Photo" /></p>
+<p>&nbsp;<img align="center" src="https://media.licdn.com/dms/image/D4D12AQEjMySF2HI23A/article-cover_image-shrink_720_1280/0/1683110886636?e=2147483647&v=beta&t=eKw8LMEJWnxFs4T6vwXvT0iTR7EA-VKrOn2woE54k1E" alt="Cover Photo" /></p>
 
 <h1 align="center">Hi 👋, I'm Binath.</h1>
 <h3 align="center">An undergraduate with a keen interest in modern technology and modern trends.</h3>

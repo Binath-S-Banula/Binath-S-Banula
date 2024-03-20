@@ -1,4 +1,4 @@
-<p>&nbsp;<img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dreamstime.com%2Fphotos-images%2Fprogrammer-cartoon.html&psig=AOvVaw3rC8JduUcc8gGmSWikXo1I&ust=1711012065637000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOjitv6-goUDFQAAAAAdAAAAABAD" alt="Cover Photo" /></p>
+<p>&nbsp;<img align="center" src="https://as2.ftcdn.net/v2/jpg/02/78/37/47/1000_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg" alt="Cover Photo" /></p>
 
 <h1 align="center">Hi 👋, I'm Binath.</h1>
 <h3 align="center">An undergraduate with a keen interest in modern technology and modern trends.</h3>
